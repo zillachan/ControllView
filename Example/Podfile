@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ControllView_Example' do
+  pod 'ControllView', :path => '../'
+
+  target 'ControllView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

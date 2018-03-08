@@ -1,0 +1,6 @@
+framework module ControllView {
+  umbrella header "ControllView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ControllView_Example {
+  umbrella header "Pods-ControllView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
